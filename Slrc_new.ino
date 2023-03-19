@@ -264,7 +264,7 @@ float IR_pid(float error_ir)
   return PID_value_ir;
 }
 
-////////////////////////////////////////////////
+
 //Motor control function
 void motor_control(float PID_value_ir)
 {
