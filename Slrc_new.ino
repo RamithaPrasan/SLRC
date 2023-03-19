@@ -303,7 +303,7 @@ char readColor() {
     Serial.print("  ");
     delay(50);*/
 
-  // Setting "Green" read
+  // Setting "Green" reading
   digitalWrite(S2, HIGH);
   digitalWrite(S3, HIGH);
   // Reading the output frequency
